@@ -64,6 +64,7 @@ input.ti-new-tag-input {
 
 #daterange {
     cursor: pointer;
+    color: rgba(0,25,68,.6);
 }
 
 .info-box-number {
